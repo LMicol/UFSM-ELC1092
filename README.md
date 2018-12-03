@@ -1,3 +1,3 @@
 # Linguagens de Marcação Extensíveis
-Lucas Micol<\b>
+Lucas Micol<br/>
 2018-2
